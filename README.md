@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwol Dhakal</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">A passionate developer from NEPAL</h3>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhakalpraj07" alt="dhakalpraj07" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning
 
 - 📫 How to reach me **prajwoldhakal7@gmail.com**
 
