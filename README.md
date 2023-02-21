@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhakalpraj07" alt="dhakalpraj07" /></a> </p>
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently "evolving as a CODER"
 
 - 📫 How to reach me **prajwoldhakal7@gmail.com**
 
